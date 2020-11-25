@@ -42,13 +42,13 @@
         move $s2, $v0	#$s2 = arr
 	
 	#assign values to elements of array
-	move $t0,$s2	                
-	sll $t1,$s0,2
-	add $t1,$t0,$t1 
+	move $t0,$s2        # $t0 = &arr   
+	sll $t1,$s0,2       # (size-1)*4
+	add $t1,$t0,$t1     # $t1 = &arr[size-1] = arr + (size-1)*4
 loop:
-        li $v0, 5
+        li $v0, 5       #get input from user
         syscall
-        sw $v0, ($t0)
+        sw $v0, ($t0)   # store input to arr+(n)*4
 	addi $t0, $t0, 4
 	bne $t0, $t1, loop
 	
