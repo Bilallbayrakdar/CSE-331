@@ -7,16 +7,29 @@ using namespace std;
 
 bool CheckSumPossibility(int num, int arr[], int size)
 {
-	if (num == false)
+    // cout << num << " " <<size << " ";
+	if (num == 0){
+        // cout << "true"<<endl;
 		return true;
-	if (size == false)
+    }
+	if (size == 0){
+        // cout << "false"<<endl;
 		return false;
+    }
 
-	if (arr[size - 1] > num)
+	if (arr[size - 1] > num){
+        // cout << "case:1"<<endl;
 		return CheckSumPossibility(num, arr, size - 1);
-
-	return CheckSumPossibility(num, arr, size - 1 )
-		|| CheckSumPossibility(num - arr[size - 1], arr, size - 1);
+    }
+    // cout << "f1"<<endl;
+    bool val = CheckSumPossibility(num, arr, size - 1 );
+	if(! val){
+    // cout << num << " " <<size << " ";
+        // cout << "f2"<<endl;
+		return CheckSumPossibility(num - arr[size - 1], arr, size - 1);
+    }
+    else
+        return true;
 }
 
 // Driver code

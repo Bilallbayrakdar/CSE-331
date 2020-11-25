@@ -1,4 +1,4 @@
-# Simple routine to demo functions
+ # Simple routine to demo functions
 # NOT using a stack in this example.
 # Thus, the function does not preserve values
 # of calling function!

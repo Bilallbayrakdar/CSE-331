@@ -82,3 +82,5 @@ x:	.word 5
 y:	.word 0
 msg1:	.asciiz	"y="
 lf:     .asciiz	"\n"
+
+
