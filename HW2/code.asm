@@ -49,8 +49,8 @@ loop:
         li $v0, 5       #get input from user
         syscall
         sw $v0, ($t0)   # store input to arr+(n)*4
-	addi $t0, $t0, 4
-	bne $t0, $t1, loop
+	addi $t0, $t0, 4    # ptr = arr+4
+	bne $t0, $t1, loop  # continue if ptr<arr + (size-1)*4
 	
 	move $a0, $s1 #num
 	move $a1, $s2 #arr
