@@ -1,0 +1,5 @@
+module tb_xor_();
+
+	reg a,b;
+	wire res;
+endmodule

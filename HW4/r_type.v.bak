@@ -1,0 +1,8 @@
+module r_type(alu_out,res);
+
+reg[31:0] alu_out;
+wire[1:0] res;
+
+
+
+endmodule

@@ -1,0 +1,19 @@
+module tb_mux_4_l();
+
+reg a,b,c,d;
+reg[1:0] sl;
+wire res;	
+	
+	mux_4_l x_test(res,a,b,c,d,sl);
+	initial begin();
+		a = 1b'0;
+		b = 1b'1;
+		c = 1b'1;
+		d = 1b'1;
+		sl = 2b'00;
+		#40;
+		$monitor("%1b",res);
+	end
+
+
+endmodule

@@ -1,0 +1,17 @@
+module tb_mips32_mem();
+	
+	reg read,write;
+	reg[17:0] address;
+	wire[31:0] data;
+	
+	mips32_mem mem(read,write,address,data);
+	
+	initial begin
+		address = 18'b000000001111111100;
+		read = 1'b1;
+		write = 1'b0;
+		$monitor("data: %18b",address);
+	end
+
+
+endmodule

@@ -1,0 +1,39 @@
+module zero_shifter_16(a,res);
+
+	input[15:0] a;
+	output[31:0] res;
+
+	res[0] = 	1'b0;
+   res[1] = 	1'b0;
+   res[2] = 	1'b0;
+   res[3] = 	1'b0;
+   res[4] = 	1'b0;
+   res[5] = 	1'b0;
+   res[6] = 	1'b0;
+   res[7] = 	1'b0;
+   res[8] = 	1'b0;
+   res[9] = 	1'b0;
+   res[10] = 	1'b0;
+   res[11] = 	1'b0;
+   res[12] = 	1'b0;
+   res[13] = 	1'b0;
+   res[14] = 	1'b0;
+   res[15] = 	1'b0;
+   res[16] =	a[0]; 
+   res[17] =	a[1]; 
+   res[18] =	a[2]; 
+   res[19] =	a[3]; 
+   res[20] =	a[4]; 
+   res[21] =	a[5]; 
+   res[22] =	a[6]; 
+   res[23] =	a[7]; 
+   res[24] =	a[8]; 
+   res[25] =	a[9]; 
+   res[26] =	a[10]; 
+   res[27] =	a[11]; 
+   res[28] =	a[12]; 
+   res[29] =	a[13]; 
+   res[30] =	a[14]; 
+   res[31] =	a[15];	
+
+endmodule

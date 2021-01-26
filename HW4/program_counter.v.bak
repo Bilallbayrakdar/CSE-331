@@ -1,0 +1,16 @@
+module program_counter(clk,current,next);
+
+	input clk;
+	input[11:0] next;
+	output[11:0] current;
+
+	initial begin
+		current = 12'b000000000000;
+	end
+	
+	
+	always @(negedge clk) begin
+		assign current = next;
+	end
+	
+endmodule

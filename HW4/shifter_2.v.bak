@@ -1,0 +1,36 @@
+module shifter_2(a, res);
+
+input[31:0] a;
+output[31:0] res;
+
+res[0] = a[0];
+res[0] = a[0];
+res[1] = a[0];
+res[2] = a[0];
+res[3] = a[0];
+res[4] = a[0];
+res[5] = a[0];
+res[6] = a[0];
+res[7] = a[0];
+res[8] = a[0];
+res[9] = a[0];
+res[10] = a[0];
+res[11] = a[0];
+res[12] = a[0];
+res[13] = a[0];
+res[14] = a[0];
+res[15] = a[0];
+res[16] = a[0];
+res[17] = a[0];
+res[18] = a[0];
+res[19] = a[0];
+res[20] = a[0];
+res[21] = a[0];
+res[22] = a[0];
+res[23] = a[0];
+res[24] = a[0];
+res[25] = a[0];
+res[26] = a[0];
+res[27] = a[0];
+res[28] = a[0];
+res[29] = a[0];

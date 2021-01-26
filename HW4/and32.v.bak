@@ -1,0 +1,10 @@
+module and32(
+	input[31:0] a_in,b_in,
+	output[31:0] c_out
+	);
+
+c_out[31] <= a_in[31] and b_in[31];	
+c_out[30] <= a_in[30] and b_in[30];
+c_out[29] <= a_in[29] and b_in[29];
+c_out[28] <= a_in[28] and b_in[28];
+c_out[27] <= a_in[27] and b_in[27];

@@ -1,0 +1,12 @@
+module alu_control(ALUop, funct, ALUctr);
+
+	input[1:0] ALUop;
+	input[5:0] funct;
+	output[2:0] ALUctr; 
+	
+	wire tmp_2;
+	
+	and(tmp_2, ALUop[1],funct[1]);
+	or(ALUctr, tmp_2, ALUop[0]);
+	
+endmodule

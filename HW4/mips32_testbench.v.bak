@@ -1,0 +1,32 @@
+module mips32_testbench();
+
+reg [4:0] instruction_count;
+reg clk;
+
+mips32 cpu(clk);
+
+	initial begin
+		$readmemb("/home/myndos/Projects/organization/hw3/simulation/modelsim/registers.mem", cpu.mr.registers);
+		$readmemb("/home/myndos/Projects/organization/hw3/simulation/modelsim/data.txt", cpu.mem.memory);
+		$readmemb("/home/myndos/Projects/organization/hw3/simulation/modelsim/instructions.txt", cpu.pc.instruction_set);
+		clk = 1'b1;
+		instruction_count = 18;
+	end
+
+	always #10 clk = ~clk;
+
+	always @(negedge clk) begin
+		#5;
+		$monitor("op%2h rs%2h rt%2h imm%4h %1b %1b %1b %2b %32b %32b",
+					cpu.instruction[31:26], cpu.instruction[25:21],
+					cpu.instruction[20:16], cpu.instruction[15:0],
+					cpu.sg_regw, cpu.sg_memw, cpu.sg_sign, cpu.d_sl,
+					cpu.fnl_mem, cpu.fnl_data);
+		if(instruction_count == cpu.pc.pc) begin
+			$writememb("/home/myndos/Projects/organization/hw3/simulation/modelsim/registers.mem", cpu.mr.registers);
+			$writememb("/home/myndos/Projects/organization/hw3/simulation/modelsim/data.txt", cpu.mem.memory);
+			$finish;
+		end
+	end
+
+endmodule

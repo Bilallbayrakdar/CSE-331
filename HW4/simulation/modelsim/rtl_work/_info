@@ -1,0 +1,1183 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\int.bilal.bayrakdar\Desktop\assignment4\simulation\modelsim
+vadder_14
+IdhTUoE=T]Ik7z6f;SD82Z3
+VF;jTS6UTl9ol4FagDgz0c3
+Z1 dC:\Users\int.bilal.bayrakdar\Desktop\assignment4\simulation\modelsim
+w1610883829
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_14.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_14.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-work work -O0
+!i10b 1
+!s100 MLN2m6ZPG`IKiV7<mDbd@1
+!s85 0
+!s108 1611172803.487000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_14.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_14.v|
+!s101 -O0
+vadder_18
+ID7L[LcQzHN<^F<:dU_1]G3
+V;;K=[ojk:zm6HFfU1mnBe2
+R1
+w1610007918
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 `Hdi1U3zk2D@bBYMOn?KA1
+!s85 0
+!s108 1611172803.721000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18.v|
+!s101 -O0
+vadder_18_tb
+IB72N=Z>F71[59nU>Fj]1@3
+VJjIobz9[NP^KkTVnAW>gH3
+R1
+w1609958043
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18_tb.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18_tb.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 AF28^]z7?c>ocMbLbVc>e2
+!s85 0
+!s108 1611172803.949000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_18_tb.v|
+!s101 -O0
+vadder_32
+IAED`eAO3D2UOzZVGfBfaH3
+V6hm?FHgTEGF1i3YiGP^:N3
+R1
+w1610288202
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 L7Ij0FA`UKbLSKQQd6[CI1
+!s85 0
+!s108 1611172804.178000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_32.v|
+!s101 -O0
+valu_1
+IooA?:2KHKCHb>eF]`L@=m3
+VJc8Y;PAIN@n^>0m1jHT082
+R1
+w1611146074
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 CSAM]B15k`?@P>A3I7;dP1
+!s85 0
+!s108 1611172804.401000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1.v|
+!s101 -O0
+valu_18
+ICD6fhmOGZMdZ2<DQc3;^e1
+V;Ucf3o4:@S4f:Eoon`]Z?2
+R1
+w1610007753
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_18.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_18.v
+L0 3
+R2
+r1
+31
+R3
+!i10b 1
+!s100 o4lk5GTZUjLlnX5z>QLTb3
+!s85 0
+!s108 1611172804.973000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_18.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_18.v|
+!s101 -O0
+valu_1_msb
+IZcENaY@c;S<S20hI1UEie2
+VOYCjo:P<6j>I4Mb`TZL[73
+R1
+w1611146081
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1msb.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1msb.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 @CIglO4jW8VKLZzKdIS8g0
+!s85 0
+!s108 1611172804.637000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1msb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1msb.v|
+!s101 -O0
+valu_32
+IX9:Xh;ob0No<C=dGDLcC20
+V[AeKVVl=ala49h6BL6aQL0
+R1
+w1611069997
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 hkREEDn7YDWNjihdzJW:_3
+!s85 0
+!s108 1611172805.193000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_32.v|
+!s101 -O0
+valu_controller
+IA6OgOj[=Z<_kdA;>81QGG3
+V]B:Z3ai2hBe?1>Gd4A7n>3
+R1
+w1611081759
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_controller.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_controller.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 6?UUOjLMFa6]R[<UJcXKd1
+!s85 0
+!s108 1611172805.419000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_controller.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_controller.v|
+!s101 -O0
+vand32
+IjHFIbgRH2TmaEc:HFZWWc0
+Vo_?61E83f67j867B;h[`51
+R1
+w1610138833
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/and32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/and32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 J;XbBhTGk81^_ZI?8XiDi1
+!s85 0
+!s108 1611172805.652000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/and32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/and32.v|
+!s101 -O0
+vcomparator_1
+I[LIhfY9>2ZEG<VPKE30ni2
+VmDRz8=H_6cAYS4;glFo7J1
+R1
+w1610362911
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 h4X`Dff`GY[k`1R_f;Qo^0
+!s85 0
+!s108 1611172805.874000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1.v|
+!s101 -O0
+vcomparator_1_msb
+IbQ[YCQeHOX:EO4UgDlC:R3
+VOlURZ>WnQXlCEeYIdISiz3
+R1
+w1610362468
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1_msb.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1_msb.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 XGK4ha2GYR4LMlKV[KD133
+!s85 0
+!s108 1611172806.094000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1_msb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1_msb.v|
+!s101 -O0
+vcomparator_32
+IRV<[Ek0@1`fZSQoIzz;Y00
+VlF4C@20:0bnSXBoRnIYgE1
+R1
+w1610364434
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 EYZ7k`9U@zUDzEDgJnS:Q2
+!s85 0
+!s108 1611172806.317000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_32.v|
+!s101 -O0
+vextender_16_32
+I7F4FF;l1z6CaEzI;jT:<f2
+VgfW6f3j0eU[O=2^i7m=>81
+R1
+w1610816491
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_16_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_16_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 2Xm2^F7@^cIOZ:zVclnmU1
+!s85 0
+!s108 1611172806.764000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_16_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_16_32.v|
+!s101 -O0
+vextender_26_32
+I57@eY71dQFABmOa06RJ_13
+V]L?o^]F6lh6f;l@XkkdXd2
+R1
+w1611151722
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_26_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_26_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 MTe[`f]a8VHK<z@alC]z31
+!s85 0
+!s108 1611172806.979000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_26_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_26_32.v|
+!s101 -O0
+vextender_2_32
+I7Bnee<HzT8NKaioG]^W`71
+VNFc1cdH0_dKTcSQZS?5bP3
+R1
+w1610816425
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_2_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_2_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ICX6QblchQ=HJgTam9J<G2
+!s85 0
+!s108 1611172806.542000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_2_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_2_32.v|
+!s101 -O0
+vfull_adder
+IUil<M`d3L[n196GVWDbG=2
+V[^S?Tb:<TM<:agn>ziXO@2
+R1
+w1609959175
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/full_adder.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/full_adder.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 M3b=_ob<o>KH:XUTT[Q<d1
+!s85 0
+!s108 1611172807.208000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/full_adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/full_adder.v|
+!s101 -O0
+vhalf_adder
+IezUF`n^_D1DKNfE`?cX532
+VYa_1izZMN`iMiVjO1B9?>2
+R1
+w1609959155
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/half_adder.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/half_adder.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ;8M243idN;bE@Y;@kTJCE1
+!s85 0
+!s108 1611172807.452000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/half_adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/half_adder.v|
+!s101 -O0
+vis_zero
+IZ4eYARkkIOZ:oZ`kKEe=?2
+VE@:>D]mDcXkmY71gnAVWd3
+R1
+w1610315161
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/is_zero.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/is_zero.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ;EibhVTK[?6781afg=2Sa3
+!s85 0
+!s108 1611172807.976000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/is_zero.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/is_zero.v|
+!s101 -O0
+vmain_control
+IDiaDa;OX?BS9NkJW:2F]13
+VIOL=1zbmnDf[_NMaSG;Ra3
+R1
+w1611145705
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/main_control.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/main_control.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 @U1Lo=4^`7B<3CL2Ih;hF0
+!s85 0
+!s108 1611172808.215000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/main_control.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/main_control.v|
+!s101 -O0
+vmips32
+!i10b 1
+!s100 F9N@ac202NWU=T^@=_N^i2
+IKV9<0f76OVeKOYBVFMVL]0
+V0zC0?05z3^L;dk@[G?E;>3
+R1
+w1611173269
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1611173281.480000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32.v|
+!s90 -reportprogress|300|-work|work|-O0|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32.v|
+!s101 -O0
+R3
+vmips32_mem
+IzB<S^67Q1NG0QVYG^eN4B1
+V`?R873TnMlW;=Wh]oSBIH1
+R1
+w1611172578
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_mem.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_mem.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 TL_mo><0eUBPglEc5ba_41
+!s85 0
+!s108 1611172808.774000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_mem.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_mem.v|
+!s101 -O0
+vmips32_registers
+I5DhVQH9T^PoFelXmFh_g21
+V?OAGGEg]YA<e=eEo9gknJ1
+R1
+w1611172591
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_registers.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_registers.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 nZaD4J17h377n03>g2aeQ3
+!s85 0
+!s108 1611172808.999000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_registers.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_registers.v|
+!s101 -O0
+vmips32_testbench
+IKRZkg^4JAVZSMB3=<S]@Y1
+V4NKP?mJKLm53`KFIjm2<72
+R1
+w1610817201
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_testbench.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_testbench.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 X[:EJfj^ghR;N_Q:k5HbA3
+!s85 0
+!s108 1611172809.222000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_testbench.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_testbench.v|
+!s101 -O0
+vmux_14_2_1
+IaXDC>UD4WS:B@2]la736K3
+VRMoe_Zf30aDA4BJ0F<YR42
+R1
+w1610883984
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_14_2_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_14_2_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 <UZM`^5U9jb[KD_D1S]zg3
+!s85 0
+!s108 1611172810.003000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_14_2_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_14_2_1.v|
+!s101 -O0
+vmux_32_2_1
+I_F3bGiX8RFld]Uc`eHGD:2
+VV5MRQ;dB8=WNC34TzX8:K3
+R1
+w1610300697
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_32_2_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_32_2_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 4nlEBEPf@9G@E5R^SYG_]3
+!s85 0
+!s108 1611172810.225000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_32_2_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_32_2_1.v|
+!s101 -O0
+vmux_4_1
+IL65>]9YRVH>5Ihj_P:2nb3
+V];F>]6S@9jOD?cj]fNHT21
+R1
+w1610185717
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_4_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_4_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 I3jeOVV9fNNhNe?Bf_NSE1
+!s85 0
+!s108 1611172809.444000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_4_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_4_1.v|
+!s101 -O0
+vmux_5_2_1
+IT8@R0jjK;j:2b@o26oW`m0
+V`HAOnhNjlQR_[Ynakg7Lo3
+R1
+w1610885669
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_5_2_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_5_2_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 bG44D8`;N^NLeOW]:m`S20
+!s85 0
+!s108 1611172809.671000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_5_2_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_5_2_1.v|
+!s101 -O0
+vor32
+Ik[EQ]hCHHBAAF75BM:[;S3
+V`BZEm`?>YW`3Qd`KZF9mH1
+R1
+w1610139270
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/or32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/or32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 _8Xc[B>M2L>^=Jjj1HQI13
+!s85 0
+!s108 1611172810.456000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/or32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/or32.v|
+!s101 -O0
+vpc_handler
+IGaHZGaH@SOLfk60jS5>@X1
+Vn2LnbNdMIJahCMmEPkb1>0
+R1
+w1611000908
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/pc_handler.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/pc_handler.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 AU8YI0dXWmTcdG1bmJeON2
+!s85 0
+!s108 1611172810.758000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/pc_handler.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/pc_handler.v|
+!s101 -O0
+vprogram_counter
+Ika5D`UN5kDM<<ZLAKlKj<0
+VfVMlaO3PY<ICm8V<GLe4G0
+R1
+w1611070189
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/program_counter.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/program_counter.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 z7EMBWkXzm=hQci]2N[KW1
+!s85 0
+!s108 1611172810.996000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/program_counter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/program_counter.v|
+!s101 -O0
+vr_type
+IHg@KBQS1``VZ`[molWJo:0
+VX7zbDcG5z4TH]ieF12zo:3
+R1
+w1610882707
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/r_type.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/r_type.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 0J2EX_cm3_`hb_<cVkH<J3
+!s85 0
+!s108 1611172811.241000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/r_type.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/r_type.v|
+!s101 -O0
+vregister_file
+IK6@>HDJMzUB?i@Ua1UIzV1
+V`^TXlQhH]RR:C;[8Oj6TT3
+R1
+w1610264519
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/register_file.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/register_file.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 a8><PbhLcPnllLooSjQ7Z0
+!s85 0
+!s108 1611172811.536000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/register_file.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/register_file.v|
+!s101 -O0
+vshifter_2
+INgcbQ7bBAS89cHWMCLcYk3
+VYl;QiLThgM0R<NA^85Fm_1
+R1
+w1610292059
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 3CniEZb9AR1jLJ6N^[aW70
+!s85 0
+!s108 1611172811.839000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2.v|
+!s101 -O0
+vshifter_2_14
+IW;2jN2V7mU8;bzgd[_?aP1
+Vdj]Kb4XkLNk:;H1L<o^Q81
+R1
+w1610885801
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2_14.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2_14.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 1FSz96mMfWJMRoFB^IhE63
+!s85 0
+!s108 1611172812.061000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2_14.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2_14.v|
+!s101 -O0
+vtb_32_mux_2_1
+Im=jhEUS1b<1`dJa9fb_XQ3
+V1GS@D`L31BoA5fVnS5I:z3
+R1
+w1610821004
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_32_2_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_32_2_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 KknE08zk?ZL@A3GP6I9?01
+!s85 0
+!s108 1611172816.382000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_32_2_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_32_2_1.v|
+!s101 -O0
+vtb_adder_32
+Io^E1zbm:5Ef^^H:aJj]J?3
+V`;JiV_Y@Wccd>^@ZK;U=;2
+R1
+w1610288074
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_32_adder.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_32_adder.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 Qi::mBn8ZGd=c]_kPfU4G2
+!s85 0
+!s108 1611172812.285000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_32_adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_32_adder.v|
+!s101 -O0
+vtb_alu_1
+I4aWS;OmO]X`zl5f96ClcF0
+V989J?Obf4?Z9QH707]gI83
+R1
+w1610790360
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 Bj370?H[50VoXoH7eMnfC1
+!s85 0
+!s108 1611172812.527000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_1.v|
+!s101 -O0
+vtb_alu_32
+I7L^8B`L9BB[i21b:SG?8k1
+VKeg7Gz?i1U_NlEleKJe^D3
+R1
+w1611145968
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 d;n@?VeMan@i9`bVfUoeH2
+!s85 0
+!s108 1611172812.755000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_32.v|
+!s101 -O0
+vtb_alu_controller
+ITdkDLYGg5Y10e7Uj4iJNO3
+V_m9nkmU[25JIiHQM>foa^1
+R1
+w1611171890
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_controller.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_controller.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 Mf4M;9O0?f4K0nJ8WKPVk3
+!s85 0
+!s108 1611172812.979000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_controller.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_controller.v|
+!s101 -O0
+vtb_and32
+IWo^01e2h9ij0MA@b<HWRY1
+V0CL02Bzb1ATilFj:1OS9<2
+R1
+w1610139174
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_and32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_and32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 N^MD<ZKEc[Rf<badDeg1R2
+!s85 0
+!s108 1611172813.199000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_and32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_and32.v|
+!s101 -O0
+vtb_comparator_1
+Inn1GXhmJP2XhdM<C`@ENa2
+Vfl[LTk[HK]=PTP;DhP6jd2
+R1
+w1610363097
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 JURFdFfodF@TBeenbkJ>>2
+!s85 0
+!s108 1611172813.435000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1.v|
+!s101 -O0
+vtb_comparator_1_msb
+Ih5iP2GZW]dgR<:9^M3?LN0
+VV9[L0_mEDCT0E@aJk=01H1
+R1
+w1610362444
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1_msb.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1_msb.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 g>4OX>l=QznWeC?Dbbik[3
+!s85 0
+!s108 1611172813.664000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1_msb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1_msb.v|
+!s101 -O0
+vtb_comparator_32
+IX`<;l>gI87o0??[P=B11E2
+Vm<hSKlTa_@Hd_MA0c4^BB0
+R1
+w1610364507
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 V3f2>0@9k2j[>7HGc>I<n1
+!s85 0
+!s108 1611172813.898000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_32.v|
+!s101 -O0
+vtb_extender_16_32
+Ig8>UFol8U1zkAHWOa96SY0
+VdH;ccYG;WK33z@A3aloJY2
+R1
+w1610280818
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_16_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_16_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 3HBRGg5ZC<jj2X^A6?P`l2
+!s85 0
+!s108 1611172814.431000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_16_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_16_32.v|
+!s101 -O0
+vtb_extender_2_32
+IH0Z>oiS7Y5HJ@zecR9M`;2
+VYX>h`9kbMEU6leCFdAfFb1
+R1
+w1610817681
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_2_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_2_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ^K2RJ3PO8^3KkYPE;zRG[0
+!s85 0
+!s108 1611172814.125000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_2_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_2_32.v|
+!s101 -O0
+vtb_is_zero
+Id@m=];g?b<X4n2ld<4B::3
+VbnB2EgEaKfmzL>6gWI`fP3
+R1
+w1610315219
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_is_zero.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_is_zero.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 U6?YLbYE?DLWH3m]ni0`21
+!s85 0
+!s108 1611172815.231000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_is_zero.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_is_zero.v|
+!s101 -O0
+vtb_main_control
+I^boA4G4;WHS7?i6SVFH;M0
+V?7=HQ:^h8gc8hc<mWeM6c2
+R1
+w1611145229
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_main_control.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_main_control.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ONIKcNGE3Qo]_gPE5?c413
+!s85 0
+!s108 1611172815.463000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_main_control.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_main_control.v|
+!s101 -O0
+vtb_mips32
+IUmL3N`UaEllC@mR??3=AI0
+Vn1oiVNfR3Xlz7AY[FTB;l2
+R1
+w1611167991
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 7k:Hj<UbcLFGJ>`;5D59f3
+!s85 0
+!s108 1611172815.686000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32.v|
+!s101 -O0
+vtb_mips32_registers
+I3_PMQ=lgONaZcFL;Lh5Eh1
+V]FiCi4<0oeAcd7II1G[8<1
+R1
+w1610827422
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32_registers.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32_registers.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 DSJZAnHDfAP8>?]Y9GGDi3
+!s85 0
+!s108 1611172815.926000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32_registers.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32_registers.v|
+!s101 -O0
+vtb_mux_4_1
+IdFM=:C]h0_7[[8QUDD==I3
+VIjgJhbafEf:RRW@Ecd=7o0
+R1
+w1610185939
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_4_1.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_4_1.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 oA;c59NoL@;knX48KK35H1
+!s85 0
+!s108 1611172816.151000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_4_1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_4_1.v|
+!s101 -O0
+vtb_or32
+IzO]RM=lelhJ9:24AQ>6RT0
+V:BaEz><;d@:6W_]VKjoXD1
+R1
+w1610139294
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_or32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_or32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 YN0ihQOKcVXOm8;<fV2`92
+!s85 0
+!s108 1611172816.610000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_or32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_or32.v|
+!s101 -O0
+vtb_pc_handler
+Ifn@I?FJ`jV_fNiW]lJ4<T1
+VWJQ?8fnOS0j25gzM873KW3
+R1
+w1610825596
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_pc_handler.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_pc_handler.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 keh6;K?YX0c^PK[Ei>Bz<3
+!s85 0
+!s108 1611172816.843000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_pc_handler.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_pc_handler.v|
+!s101 -O0
+vtb_program_counter
+IJ^VnH3PXjeND`Sb6V[C=<3
+VLonRL=MgQ2ff5LHozFP0m2
+R1
+w1610812565
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_program_counter.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_program_counter.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 DF>mLzhH55E0<TTTJfijQ1
+!s85 0
+!s108 1611172817.071000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_program_counter.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_program_counter.v|
+!s101 -O0
+vtb_r_type
+IR]8Dm?;XVRH5Hm5>k0hUH0
+VH<iX5WdV49R][O^Z]S1hG3
+R1
+w1610386451
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_r_type.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_r_type.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 >PizS_5U5jL>AnEGN_H[71
+!s85 0
+!s108 1611172817.296000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_r_type.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_r_type.v|
+!s101 -O0
+vtb_shifter_2
+I_@2Z7bGkE`=jef`RI3RVg3
+VUdNZliZSN=^aPnGbP]``R3
+R1
+w1610291799
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_shifter_2.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_shifter_2.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 [[Z@XM282d]1^Y5leYB6A0
+!s85 0
+!s108 1611172817.544000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_shifter_2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_shifter_2.v|
+!s101 -O0
+vtb_xor_
+I3iNooR>=8HHe<Ifa5Yb@O1
+VzVnhDIjLcQV^3o>`S;0:50
+R1
+w1610792484
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_xor_.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_xor_.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ?1S7@2RQQ9bKiYlZ1l9j_1
+!s85 0
+!s108 1611172817.775000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_xor_.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_xor_.v|
+!s101 -O0
+vtb_zero_extender_32
+IJPneSOELKCI]C=`eoE4zj1
+VoQn92YSG?FD2B]STVJLL=2
+R1
+w1610470173
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_zero_extender.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_zero_extender.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 @64dE<kCYj7R>8dk;4=iB2
+!s85 0
+!s108 1611172818.010000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_zero_extender.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_zero_extender.v|
+!s101 -O0
+vxor_
+IY?j9WSFX6o8Ike>jBk<>H1
+VFZVTL6okRI;;YP[Z=fYM^2
+R1
+w1610177916
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/xor_.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/xor_.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 gha[5bFX:^L5dn:6?LJdG0
+!s85 0
+!s108 1611172818.260000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/xor_.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/xor_.v|
+!s101 -O0
+vzero_extender_14_32
+IBMi2FodA`AbZ8TTa6Ykc00
+VQ=aoNnI;[Ma2O?<;c@7EJ2
+R1
+w1610885438
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_14_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_14_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 >X;I_J3WBcRkGbgJ<nm4L0
+!s85 0
+!s108 1611172818.557000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_14_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_14_32.v|
+!s101 -O0
+vzero_extender_32
+I`5eFB4FK]6f_UDl6>F>Tl1
+VzNB`f^KaUbGPdToINRZB11
+R1
+w1610829455
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_32.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_32.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 X`:Kl7GoiNN9YefknoYR;0
+!s85 0
+!s108 1611172818.798000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_32.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_32.v|
+!s101 -O0
+vzero_shifter_16
+Ig0Glnd6CmE]UHT<gUSN?`2
+VcdgzQZR236K1=@>FCLMNK1
+R1
+w1610829579
+8C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_shifter_16.v
+FC:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_shifter_16.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 oROfQ0bk2=9T>:>>5Ib:i2
+!s85 0
+!s108 1611172819.126000
+!s107 C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_shifter_16.v|
+!s90 -reportprogress|300|-work|work|C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_shifter_16.v|
+!s101 -O0

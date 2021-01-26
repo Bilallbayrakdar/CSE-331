@@ -1,0 +1,4 @@
+module tb_mips32_registers();
+
+
+endmodule

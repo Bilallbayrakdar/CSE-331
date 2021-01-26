@@ -1,0 +1,15 @@
+module comparator_1_lsb(a,b,res);
+
+input a,b;
+output res;
+
+wire a_not,b_not, a1,a2 ;
+
+not(a_not,a);
+not(b_not,b);
+and(a1,a,b_not);
+and(a2,b,a_not);
+or(res,a1,a2);
+
+endmodule
+

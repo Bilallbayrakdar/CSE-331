@@ -1,0 +1,22 @@
+module mips32_registers(clk,readReg1, readReg2, writeReg1, writeReg2, writeData1, writeData2, readData1, readData2);
+
+	input[13:0] readReg1,readReg2, writeReg1, writeReg2 ;
+	input[31:0] writeData1, writeData2;
+	output[31:0] readData1, readData2;
+	
+	reg[31:0] registers[32:0];
+	
+	always @(negedge clk) begin
+		readData1 = registers[readReg1];
+		readData2 = registers[readReg2];
+		
+		if(writeReg1 == 1)
+			registers[writeReg1] = writeData1;
+		if(writeReg == 1)
+			registers[writeReg2] = writeData2;
+		
+		$writememb("C:/Users/int.bilal.bayrakdar/Desktop/assignment4/simulation/modelsim/memory/registers.mem", registers);
+		
+	end
+
+endmodule

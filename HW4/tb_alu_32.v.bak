@@ -1,0 +1,21 @@
+module alu_32_msb_tb();
+
+reg [31:0] a, b, c, d;
+wire [31:0] x, y;
+reg [2:0] op;
+wire c0, c1, z0, z1;
+
+alu_32_msb a0(x, c0, z0, a, b, op);
+alu_32_msb a1(y, c1, z1, c, d, op);
+
+initial begin
+	a = 32'h22222222;
+	b = 32'h33333333;
+	c = 32'h12341234;
+	d = 32'h66667777;
+	op = 3'b001;
+	#50;
+	$monitor("%3b %8h + %8h = %8h\n%3b %8h + %8h = %8h", op, a, b, x, op, c, d, y);
+end
+
+endmodule

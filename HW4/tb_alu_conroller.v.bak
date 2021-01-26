@@ -1,0 +1,8 @@
+module tb_alu_conroller();
+	
+	
+	
+	initial begin
+	end
+
+endmodule

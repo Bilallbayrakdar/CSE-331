@@ -1,0 +1,14 @@
+module tb_r_type();
+	
+	reg[31:0] a;
+	wire[1:0] res;
+	r_type(a,res);
+	
+	initial begin
+		a = 32'b0;
+		#10;
+		$monitor("%res 2b");
+	
+	end
+
+endmodule

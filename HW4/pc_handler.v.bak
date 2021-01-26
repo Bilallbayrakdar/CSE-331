@@ -1,0 +1,12 @@
+module program_tracer(j_address, pc_val, beq, j_sg, res);
+
+	reg[31:0] j_address, pc_val;
+	wire[31:0] res;
+	
+	wire[31:0] j_refined, b_refined, next_pc;
+	
+	
+	next_pc 
+
+
+endmodule

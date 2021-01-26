@@ -1,0 +1,16 @@
+module tb_alu_1;
+
+reg A,B,cin;
+wire res,c_out,less;
+reg[2:0] op;
+
+alu_1 alu(res,cout,A,B,cin,less,op);
+
+	initial begin
+		A = 1b'1;
+		B = 1b'0;
+		op = 3b'000;
+		#40;
+		$monitor("%3b %b %b",op,A,B);
+	end
+endmodule

@@ -1,0 +1,16 @@
+module tb_pc_handler();
+
+	reg[31:0] adr,pc;
+	wire[31:0] res;
+	reg js,bs;
+	
+	pc_handler hnd(adr, pc, js, bs, res);
+	initial begin
+	A = 32'b0000000000000000000000001111;
+	B = 32'b0000000001111000000000001111;
+	js = 1'b0;
+	bs = 1'b0;
+	#40;
+	end
+
+endmodule

@@ -1,0 +1,17 @@
+module tb_program_counter();
+	
+	reg clk;
+	reg[11:0] next;
+	wire[11:0] current;
+	
+	initial begin
+	next = 12'b000000000000;
+	forever begin
+    clk = 0;
+	 next <= next+1;
+    #10 clk = ~clk;
+	
+	end end
+
+
+endmodule

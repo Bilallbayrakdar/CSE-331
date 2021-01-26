@@ -1,0 +1,10 @@
+module mips32_mem(memWrite, memRead, address, readData);
+
+	input memWrite, memRead;
+	input[17:0] address;
+	output[31:0] readData;
+	
+	reg[31:0] 
+	
+	
+endmodule

@@ -1,0 +1,15 @@
+module tb_comparator_1_lsb();
+	
+	reg a,b;
+	wire res;
+	
+	comparator_1_lsb c1(a,b,res);
+	
+	initial begin
+		a = 1'b = 0;
+		b = 1'b = 1;
+		#10;
+		$monitor("res: %1b",res);
+	end
+	
+endmodule

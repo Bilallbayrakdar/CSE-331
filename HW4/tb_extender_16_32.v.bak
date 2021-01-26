@@ -1,0 +1,15 @@
+tb_extender_16_32;
+	
+	reg[15:0] num;
+	wire[31:0] res;
+	reg sign ;
+	
+	extender_16_32 ex(res,num,sign);
+	initial begin;
+		num = 15'b11110000;
+		sign = 1'b1;
+		#30;
+		$monitor("%b16 => %b32",num,res)
+	end
+	
+endmodule

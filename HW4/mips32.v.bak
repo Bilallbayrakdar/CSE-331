@@ -1,0 +1,23 @@
+module mips32(clk);
+
+	input clk;
+	
+	wire[31:0] instruction;
+	wire[13:0] pc;
+	wire[2:0] aluop;
+	
+	wire Jal, Imm, Jmp, RegDest, Branch, Bneq, MemRead, MemtoReg, MemWrite, ALUSrc, RegWrite, RegWrite2, Lui;
+	
+	
+	pc_handler pch();
+	program_counter(clk,);
+	
+	main_control m_ctr();
+	alu_controller alu_ctr();
+	
+	alu_32 alu();
+	r_type r();
+	
+	mips32_mem mem();
+
+endmodule

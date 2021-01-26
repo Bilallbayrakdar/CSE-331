@@ -1,0 +1,79 @@
+Quartus II Archive log --	C:/Users/int.bilal.bayrakdar/Desktop/assignment4/bayrakdar_bilal_171044054.qarlog
+
+Archive:	C:/Users/int.bilal.bayrakdar/Desktop/assignment4/bayrakdar_bilal_171044054.qar
+Date:		Wed Jan 20 22:57:57 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_14.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/adder_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_1msb.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/alu_controller.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/and32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_1_msb.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/comparator_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/db/hw4.db_info
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_16_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_26_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/extender_2_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/full_adder.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/half_adder.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/hw4.qpf
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/hw4.qsf
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/incremental_db/compiled_partitions/hw4.db_info
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/is_zero.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/main_control.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_mem.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_registers.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mips32_testbench.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_14_2_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_32_2_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_4_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/mux_5_2_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/or32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/pc_handler.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/program_counter.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/r_type.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/register_file.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/shifter_2_14.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/simulation/modelsim/memory/data.txt
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/simulation/modelsim/memory/instructions.txt
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/simulation/modelsim/memory/registers.mem
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/simulation/modelsim/memory/registers.txt
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_32_adder.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_alu_controller.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_and32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_1_msb.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_comparator_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_16_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_extender_2_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_is_zero.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_main_control.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mips32_registers.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_32_2_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_mux_4_1.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_or32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_pc_handler.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_program_counter.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_r_type.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_shifter_2.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_xor_.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/tb_zero_extender.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/xor_.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_14_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_extender_32.v
+C:/Users/int.bilal.bayrakdar/Desktop/assignment4/zero_shifter_16.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 68 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

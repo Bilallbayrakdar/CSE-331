@@ -1,0 +1,19 @@
+module tb_alu_conroller();
+	
+	reg[1:0] ALU;
+	reg[5:0] func;
+	wire[2:0] res;
+	
+	alu_controller alu(ALU,func,res);
+	
+	initial begin
+		
+		ALU = 1'b00;
+		func = 5'b00000;
+		#10;
+		$monitor("%ALUctr: 3b",res);
+		
+	
+	end
+
+endmodule

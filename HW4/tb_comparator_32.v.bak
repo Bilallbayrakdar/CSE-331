@@ -1,0 +1,16 @@
+module tb_comparator_32();
+	
+	reg[31:0] a,b;
+	wire big, eq, sm;
+	
+	comparator_32 c0(a,b,b,g,eq,sm);
+	
+	initial begin
+	a = 32'b1111;
+	b = 32'b0000;
+	#40;
+	$monitor("big: %1b | eq: %1b  | sm: %1b",big,eq,sm);
+	end
+
+
+endmodule
